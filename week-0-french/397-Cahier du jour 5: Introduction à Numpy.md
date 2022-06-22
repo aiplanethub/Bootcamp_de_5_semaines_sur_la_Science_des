@@ -1,0 +1,1 @@
+<p>Notebook on Introduction to Numpy:&nbsp;<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%200/W0-Numpy_library_bootcamp_French_Ayoub.ipynb">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%200/W0-Numpy_library_bootcamp_French_Ayoub.ipynb</a></p>
