@@ -1,0 +1,4 @@
+<ul>
+	<li>Logistic Regression-Advertisement:&nbsp;<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Logistic_Regression/Logistic_Regression_Advertisement_French_Ayoub.ipynb" target="_blank">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Logistic_Regression/Logistic_Regression_Advertisement_French_Ayoub.ipynb</a></li>
+	<li>Logistic Regression-Heart Disease:&nbsp;<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Logistic_Regression/Logistic_Regression_Heart_Disease_French_Ayoub" target="_blank">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Logistic_Regression/Logistic_Regression_Heart_Disease_French_Ayoub</a></li>
+</ul>
