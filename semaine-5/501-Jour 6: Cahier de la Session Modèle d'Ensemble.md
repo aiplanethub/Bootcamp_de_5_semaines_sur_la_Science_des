@@ -1,0 +1,1 @@
+<p><strong>Ensemble model notebook:</strong>&nbsp;<a href="https://github.com/dphi-official/ML_Models/blob/master/Model_Optimisation/notebooks/random_forest_slides.ipynb" target="_blank">https://github.com/dphi-official/ML_Models/blob/master/Model_Optimisation/notebooks/random_forest_slides.ipynb</a></p>
