@@ -1,0 +1,4 @@
+<ul>
+	<li>Simple Linear Regression:&nbsp;<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Linear_Regression/Introduction_to_Linear_Regression_French_Ayoub.ipynb" target="_blank">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Linear_Regression/Introduction_to_Linear_Regression_French_Ayoub.ipynb</a></li>
+	<li>Multiple Linear Regression:&nbsp;<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Linear_Regression/Multiple_Linear_Regression_French_Ayoub.ipynb" target="_blank">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%203/Linear_Regression/Multiple_Linear_Regression_French_Ayoub.ipynb</a></li>
+</ul>
