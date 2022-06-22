@@ -1,0 +1,2 @@
+<h1>Session du jour 4: Introduction à l'importance des fonctionnalités et à la sélection des fonctionnalités dans l'apprentissage automatique</h1>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/t4mTeqZ8YZk?list=PLKub218pIBvER9BC5wK6FH8YhmTtsZN2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
