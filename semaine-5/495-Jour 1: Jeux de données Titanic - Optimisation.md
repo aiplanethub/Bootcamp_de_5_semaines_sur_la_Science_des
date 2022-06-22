@@ -1,0 +1,1 @@
+<p>Titanic Dataset - Notebook Optimization:&nbsp;<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%205/ML_with_Titanic_Data_French_Ayoub.ipynb" target="_blank">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%205/ML_with_Titanic_Data_French_Ayoub.ipynb</a></p>
