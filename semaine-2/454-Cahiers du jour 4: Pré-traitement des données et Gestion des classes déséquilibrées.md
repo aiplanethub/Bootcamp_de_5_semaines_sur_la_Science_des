@@ -1,0 +1,5 @@
+<p>Notebook on Data Pre-processing:<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%202/Cahiers%20du%20jour%204_%20pr%C3%A9-traitement%20des%20donn%C3%A9es%20et%20gestion%20des%20classes%20d%C3%A9s%C3%A9quilibr%C3%A9es.ipynb" target="_blank">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%202/Cahiers%20du%20jour%204_%20pr%C3%A9-traitement%20des%20donn%C3%A9es%20et%20gestion%20des%20classes%20d%C3%A9s%C3%A9quilibr%C3%A9es.ipynb</a></p>
+
+<p>&nbsp;</p>
+
+<p>Notebook on Imbalanced Classes:&nbsp;<a href="https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%202/introduction%20aux%20classes%20d%C3%A9s%C3%A9quilibr%C3%A9es.ipynb" target="_blank">https://github.com/dphi-official/Bootcamp-de-sur-la-Science-des-donn-es/blob/master/Semaine%202/introduction%20aux%20classes%20d%C3%A9s%C3%A9quilibr%C3%A9es.ipynb</a></p>
