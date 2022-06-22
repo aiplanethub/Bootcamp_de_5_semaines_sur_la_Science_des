@@ -1,0 +1,2 @@
+<h1>Session du jour 1: Plongez au cœur de Pandas</h1>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FsKHdcDUFTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
