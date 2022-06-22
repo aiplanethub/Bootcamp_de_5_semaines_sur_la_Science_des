@@ -1,0 +1,2 @@
+<h1>Session du jour 2: Construire votre premier modèle ML</h1>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m66UP8pMdsA?list=PLKub218pIBvER9BC5wK6FH8YhmTtsZN2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
